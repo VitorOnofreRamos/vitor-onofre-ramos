@@ -1,0 +1,13 @@
+.personal-data h1{
+    font-size: 2rem;
+    color: rgb(32, 121, 5);
+    border: 2px solid rgb(32, 121, 5);
+    background-image: url('../img/grassblock.png');
+    background-size: contain;
+}
+
+.personal-data{
+    font-size: 1.5rem;
+    color: rgb(7, 221, 0);
+    background-image: url('../img/dirtblock.png');
+}
